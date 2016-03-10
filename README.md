@@ -6,6 +6,18 @@ Main repository for software modeling course @JCE
 
 ## Course Materials
 
+| # | Subject | HW (submission) |
+|---|---------|-----------------|
+| 1 | [Intro][01-intro]         |       |
+| 2 | [Git][02-git]             | [git][ex01-git] (16/3) |
+| 3 | UMl1 - static             | UML/OCL (14/4) |
+| 4 | UMl2 - dynamic            | |
+| 5 | UMl3 - OCL                | |
+| 6 | Process                   | Project (steps) |
+| 7 | Design & Architecture     | |
+| 8 | Evaluation                | |
+| 8 | Verification & Validation | DDD? |
+
 [Lecture slides](./lecture/)
 
 [Homework](Homework.md)
@@ -15,3 +27,9 @@ Main repository for software modeling course @JCE
 [Class Book](./book/)
 
 [Tools](Tools.md)
+
+<!-- Links -->
+[01-intro]: ./lecture/modeling-01-intro.pdf
+[02-git]: ./lecture/modeling-02-git.pdf
+
+[ex01-git]: https://github.com/jce-il/git-immersion

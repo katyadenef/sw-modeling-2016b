@@ -15,4 +15,11 @@
 | Developers Team | needs to fix bugs / develop new enhancements |
 | On-line credit card service | needs to provide safe on-line payments |
 
+## Use-cases Diagram
+
+
+## Detailed Use-case
+
+| בקשה לתמיכה טכנית | שם הפעולה |
+
 &copy; Katya Denef, Ran Itzhaky, Itzik Rabinovich

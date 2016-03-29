@@ -14,3 +14,5 @@
 | Support Team | needs to provide tech. support for service users |
 | Developers Team | needs to fix bugs / develop new enhancements |
 | On-line credit card service | needs to provide safe on-line payments |
+
+&copy; Katya Denef, Ran Itzhaki, Itzik Rabinovich

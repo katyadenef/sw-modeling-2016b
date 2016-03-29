@@ -27,9 +27,7 @@
 | Goal | the customer wants to get technical help since he's not able to perform a specific action |
 | Scope | web-service for products purchase |
 | Level | web customer |
-| Actors/Stakeholders | customer - wants to receive help |
-|         | support team - want to provide high level support to customers |
-|         | service owners - want the customer to be satisfied with the support and continue using their service |
+| Actors/Stakeholders | <ul><li>customer - wants to receive help</li><li>support team - want to provide high level support to customers</li><li>service owners - want the customer to be satisfied with the support and continue using their service</li></ul> |
 | Trigger | customer clicks the "Get Help" button |
 | Pre-requirement | customer has trouble fulfilling a mission |
 | Successful Ending Condition | customer succeeds in his mission; the support team closes the ticket |

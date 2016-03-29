@@ -30,7 +30,12 @@
 | Actors/Stakeholders | customer - wants to receive help |
 |         | support team - want to provide high level support to customers |
 |         | service owners - want the customer to be satisfied with the support and continue using their service |
-
+| Trigger | customer clicks the "Get Help" button |
+| Pre-requirement | customer has trouble fulfilling a mission |
+| Successful Ending Condition | customer succeeds in his mission; the support team closes the ticket |
+| Failure Condition | technical support cannot provide a solution, e.g., a bug is found |
+| Main successful scenario | <ol><li>customer clicks the "Get Help" button</li><li>the customer fills out the form</li><li>a ticket is opened in the system</li><li>the systems connects the customer to chat with a support agent</li><li>the customer explains his issue</li><li>the support agent resolves the issue</li><li>the customer manages to do his task and closes the chat with the agent</li><li>the support agent closes the ticket</li></ol> |
+| More (errors) | <ul><li>support agent is unavailable<ul><li>the customer is asked to wait on the line</li><li>the customer gives up and looks for another way to do what he needed to do</li></ul></li><li>the support team cannot resolve the issue, coz it's a bug and needs to be fixed by developers</li></ul> |
 
 
 

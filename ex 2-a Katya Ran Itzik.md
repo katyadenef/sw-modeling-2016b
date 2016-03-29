@@ -20,6 +20,6 @@
 
 ## Detailed Use-case
 
-| בקשה לתמיכה טכנית | שם הפעולה |
+| שם הפעולה | בקשה לתמיכה טכנית |
 
 &copy; Katya Denef, Ran Itzhaky, Itzik Rabinovich

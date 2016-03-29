@@ -17,7 +17,7 @@
 
 ## Use-cases Diagram
 
-
+![Use case diagram](sw-modeling-2016b/UseCaseDiag.PNG)
 
 ## Detailed Use-case
 

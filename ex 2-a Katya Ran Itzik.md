@@ -20,15 +20,18 @@
 
 ## Detailed Use-case
 
-| &#x202b; נושא | פירוט |
+| Subject | Description |
 | -------|--------|
-| &#x202b; שם הפעולה | בקשה לתמיכה טכנית |
-| &#x202b; שחקן ראשי | משתמש  |
-| &#x202b; מטרה | משתמש המעוניין לקבל עזרה מפני שלא מליח לעשות פעולה מסוימת באתר |
-| &#x202b; היקף | מערכת אינטרנטית להזמנת מוצרים |
-| &#x202b; בעלי עניין | משמת - מעוניין לקבל עזרה |
-| &#x202b;       | צוות תמיכה - מתן שירות ללקוח |
-| &#x202b;       | בעלי החברה - שהלקוח יקבל עזרה וירכוש מוצר דרך האתר |
+| Use-case name | Technical support Request |
+| Main actor | web customer |
+| Goal | the customer wants to get technical help since he's not able to perform a specific action |
+| Scope | web-service for products purchase |
+| Level | web customer |
+| Actors/Stakeholders | customer - wants to receive help |
+|         | support team - want to provide high level support to customers |
+|         | service owners - want the customer to be satisfied with the support and continue using their service |
+
+
 
 
 &copy; Katya Denef, Ran Itzhaky, Itzik Rabinovich
